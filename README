@@ -1,16 +1,39 @@
+
+Essentia
+—————————
 Quick description of all agorithms:
 http://essentia.upf.edu/documentation/algorithms_overview.html
+
 
 all algorithms by name:
 http://essentia.upf.edu/documentation/algorithms_reference.html
 
 installation:
 http://essentia.upf.edu/documentation/installing.html
+http://essentia.upf.edu/documentation/streaming_extractor_music.html
+
+Tutorial:
+https://github.com/MTG/essentia/blob/master/src/examples/tutorial/essentia_python_tutorial.ipynb
+
+http://mtg.upf.edu/technologies/EssentiaRT~
 
 
 
------------------
+Acoustic Brainz
+—————————————
 
+http://acousticbrainz.org/data#sample-data
 https://acousticbrainz.org/
 
-https://acousticbrainz.org/data#sample-data
+
+Spotify
+——————
+https://github.com/spotify/android-sdk
+https://developer.spotify.com/my-applications/
+
+
+
+Other extractors
+——————
+https://github.com/librosa/librosa
+https://musictechfest.net/toolkit/
